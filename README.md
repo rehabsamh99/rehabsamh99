@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Rehab Sameh
+**Front-End Developer | React.js**
 
-<!--
-**rehabsamh99/rehabsamh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build interactive and user-friendly web applications using modern web technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5, CSS3, Bootstrap**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlighted Projects
+- **ITI Graduation Project** [Repo Link](https://lnkd.in/dusxKK5M) – A comprehensive project developed during my ITI training, showcasing my skills in React and front-end development.
+- **DEPI Project** [Repo Link](https://lnkd.in/eAcqw2My) – A project demonstrating practical applications of web development using React.js and modern front-end tools.
