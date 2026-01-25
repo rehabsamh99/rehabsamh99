@@ -14,3 +14,8 @@ I build interactive and user-friendly web applications using modern web technolo
 
 ## 📫 Contact Me
 - **LinkedIn:** [Rehab Sameh](https://www.linkedin.com/in/rehab-sameh/)
+
+
+
+## Certifications 
+-🎓 Certified from Digital Egypt Pioneers Initiative (DEPI)
